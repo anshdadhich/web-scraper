@@ -1,5 +1,5 @@
 import requests as req
-import BeautifulSoup4 as BeautifulSoup
+from bs4 import BeautifulSoup
 import streamlit as st
 
 def set_page_layout():
