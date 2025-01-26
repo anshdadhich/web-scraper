@@ -10,6 +10,9 @@ set_page_layout()
 st.title("Web Scraper")
 
 with st.form("web scraper"):
+    if url.strip() == "":
+         st.write("The url should not be empty")
+    else:
      url = st.text_input("Enter Url to scrape")
      
      col1,col2,col3,col4,col5 = st.columns(5)
