@@ -6,4 +6,5 @@ You can access it on the web on this [here](https://web-scraperr.streamlit.app/)
 to run this on your machine :
    1. install run this command :  ```pip install requests streamlit bs4```
    2. then run this command : ```streamlit run path_to_web_scraper.py```
- here replace "path_to_web_scraper.py" with the path of web_scraper.py file on your system
+ 
+here replace "path_to_web_scraper.py" with the path of web_scraper.py file on your system
