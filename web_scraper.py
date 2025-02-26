@@ -77,7 +77,7 @@ with st.form("web scraper"):
                     st.code(extracted_tags)
              else:
                 try:
-                    for i in range(int(how_many)):
+                    for i in range(int(how_many)+1):
                         extracted_tags += " " + html[i].get_text(strip = True, separator = " ") + "\n"
                     if extracted_tags == "":
                        st.code("not found")
@@ -97,7 +97,7 @@ with st.form("web scraper"):
                     st.code(extracted_tags)  
              else:
                 try:
-                    for i in range(int(how_many)):
+                    for i in range(int(how_many)+1):
                        extracted_tags += str(html[i]) + "\n"
                     if extracted_tags == "":
                        st.code("not found")
