@@ -1,6 +1,6 @@
 It's a website made using streamlit that helps in basic web scraping 
 
-### if its sleeping press the buttom that says if its sleeping "yes,get this back up"
+### if its sleeping press the butto that says "yes,get this back up"
 ### You can access it on the web on this [here](https://web-scraperr.streamlit.app/) 
 
 
