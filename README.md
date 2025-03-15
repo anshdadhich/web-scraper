@@ -1,6 +1,6 @@
-It's a website made using streamlit that helps in basic web scraping 
+## It's a website made using streamlit that helps in basic web scraping 
 
-### if its sleeping press the butto that says "yes,get this app back up!"
+### if its sleeping press the button that says "yes, get this app back up!"
 ### You can access it on the web on this [here](https://web-scraperr.streamlit.app/) 
 
 
